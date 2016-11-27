@@ -170,3 +170,9 @@ jspm_packages
 
 # Yarn Integrity file
 .yarn-integrity
+
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata
